@@ -123,7 +123,6 @@ void render_board(SDL_Renderer *renderer,
 
 				default: {}
 			}
-
 		}
 	}
 
